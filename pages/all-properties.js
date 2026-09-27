@@ -5,6 +5,7 @@ import propertiesData from '../assets/data/properties.json';
 import RealScoutAdvancedSearch from '../components/RealScoutAdvancedSearch';
 import RealScoutSimpleSearch from '../components/RealScoutSimpleSearch';
 import RealScoutOfficeListings from '../components/RealScoutOfficeListings';
+import AmenityMapSection from '../components/AmenityMapSection';
 
 export default function AllProperties({ properties }) {
   return (
@@ -69,6 +70,11 @@ export default function AllProperties({ properties }) {
             </div>
           ))}
         </div>
+
+        <AmenityMapSection
+          title="Explore the neighborhood"
+          subtitle="See parks, schools, grocery, and healthcare near Lone Mountain listings before you tour."
+        />
 
         <section className="office-listings-section mt-12">
           <h2 className="text-3xl font-bold text-[#0A2540] mb-6 text-center">All Office Listings</h2>
