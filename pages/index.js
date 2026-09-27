@@ -5,6 +5,7 @@ import RealScoutWidget from '../components/RealScoutWidget';
 import RealScoutAdvancedSearch from '../components/RealScoutAdvancedSearch';
 import RealScoutSimpleSearch from '../components/RealScoutSimpleSearch';
 import RealScoutOfficeListings from '../components/RealScoutOfficeListings';
+import AmenityMapSection from '../components/AmenityMapSection';
 
 export default function Home() {
   return (
@@ -175,6 +176,13 @@ export default function Home() {
           </div>
         </nav>
 
+        <AmenityMapSection
+          title="What's Nearby"
+          subtitle="Life near Lone Mountain Vistas means regional park trails, Centennial Hills shopping, and northwest Las Vegas conveniences within an easy drive."
+          compactList={false}
+          className="amenity-home-section"
+        />
+
         <section className="office-listings-section">
           <h2 className="listings-title">Featured Properties</h2>
           <RealScoutOfficeListings />
@@ -333,6 +341,10 @@ export default function Home() {
           background: white;
           border-radius: 12px;
           box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+        :global(.amenity-home-section) {
+          max-width: 900px !important;
+          text-align: left;
         }
         .listings-title {
           font-size: 1.8rem;

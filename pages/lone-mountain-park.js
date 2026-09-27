@@ -3,6 +3,7 @@ import Link from 'next/link';
 import RealScoutAdvancedSearch from '../components/RealScoutAdvancedSearch';
 import RealScoutSimpleSearch from '../components/RealScoutSimpleSearch';
 import RealScoutOfficeListings from '../components/RealScoutOfficeListings';
+import AmenityMapSection from '../components/AmenityMapSection';
 
 export default function LoneMountainPark() {
   return (
@@ -263,6 +264,11 @@ export default function LoneMountainPark() {
                 </Link>
               </li>
               <li>
+                <Link href="/amenities" className="text-[#3A8DDE] hover:underline">
+                  Full nearby amenities guide and interactive map
+                </Link>
+              </li>
+              <li>
                 <Link href="/all-properties" className="text-[#3A8DDE] hover:underline">
                   View available properties in the Lone Mountain area
                 </Link>
@@ -270,6 +276,11 @@ export default function LoneMountainPark() {
             </ul>
           </div>
         </article>
+
+        <AmenityMapSection
+          title="Beyond the park"
+          subtitle="Restaurants, grocery, healthcare, and golf around Lone Mountain Regional Park — explore what daily life looks like in northwest Las Vegas."
+        />
 
         <section className="office-listings-section mt-12">
           <h2 className="text-3xl font-bold text-[#0A2540] mb-6 text-center">Featured Properties</h2>

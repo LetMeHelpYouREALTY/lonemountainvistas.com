@@ -32,6 +32,7 @@ const navItems = [
     children: [
       { label: 'Living in Lone Mountain', href: '/living-lone-mountain' },
       { label: 'Lone Mountain Regional Park', href: '/lone-mountain-park' },
+      { label: 'Nearby Amenities', href: '/amenities' },
       { label: 'Resources', href: '/resources' },
     ],
   },
