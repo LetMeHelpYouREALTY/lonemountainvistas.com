@@ -319,9 +319,10 @@ export default function AmenityMap({ showCuratedList = true, className = '' }) {
   const initStartedRef = useRef(false);
 
   useEffect(() => {
-    if (!isVisible || useFallback || mapInitializedRef.current) {
+    if (!isVisible || useFallback || initStartedRef.current) {
       return undefined;
     }
+    initStartedRef.current = true;
 
     let cancelled = false;
 
