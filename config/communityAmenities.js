@@ -1,7 +1,6 @@
 /**
  * Lone Mountain Vistas — community center and curated nearby places.
  * Map center: Clark County Lone Mountain Regional Park (public geographic anchor for the area).
- * @see https://www.clarkcountynv.gov — Lone Mountain Regional Park, 9825 W Lone Mountain Rd, Las Vegas, NV 89129
  */
 
 export const COMMUNITY_CONFIG = {
@@ -31,7 +30,6 @@ export const COMMUNITY_CONFIG = {
 
 /** @typedef {{ id: string, label: string, primaryTypes: string[], schemaType: string, ariaLabel: string }} AmenityCategory */
 
-/** Category order tuned for luxury suburban northwest Las Vegas (not 55+ or Strip high-rise). */
 /** @type {AmenityCategory[]} */
 export const AMENITY_CATEGORIES = [
   {
@@ -114,8 +112,11 @@ export const AMENITY_CATEGORIES = [
 ];
 
 /**
- * Verified nearby places for fallback UI and ItemList schema (names + addresses from public sources).
+ * Curated places for fallback UI and ItemList schema — each entry verified against a primary source URL.
+ * @typedef {{ id: string, name: string, category: string, schemaType: string, address: string, lat: number, lng: number, sourceUrl: string }} CuratedPlace
  */
+
+/** @type {CuratedPlace[]} */
 export const CURATED_AMENITIES = [
   {
     id: 'lone-mountain-regional-park',
@@ -125,6 +126,8 @@ export const CURATED_AMENITIES = [
     address: '9825 W Lone Mountain Rd, Las Vegas, NV 89129',
     lat: 36.2468,
     lng: -115.3119,
+    sourceUrl:
+      'https://www.clarkcountynv.gov/government/departments/parks___recreation/services/area_reservations/',
   },
   {
     id: 'floyd-lamb-park',
@@ -134,6 +137,7 @@ export const CURATED_AMENITIES = [
     address: '9200 Tule Springs Rd, Las Vegas, NV 89131',
     lat: 36.316,
     lng: -115.274,
+    sourceUrl: 'https://www.lasvegasnevada.gov/Residents/Parks-Facilities/Floyd-Lamb-Park',
   },
   {
     id: 'albertsons-hualapai',
@@ -143,6 +147,7 @@ export const CURATED_AMENITIES = [
     address: '6730 N Hualapai Way, Las Vegas, NV 89149',
     lat: 36.2845,
     lng: -115.3142,
+    sourceUrl: 'https://local.albertsons.com/nv/las-vegas/6730-n-hualapai-way.html',
   },
   {
     id: 'badlands-golf',
@@ -152,6 +157,7 @@ export const CURATED_AMENITIES = [
     address: '9119 Alta Dr, Las Vegas, NV 89145',
     lat: 36.1385,
     lng: -115.298,
+    sourceUrl: 'https://www.badlandsgc.com/',
   },
   {
     id: 'centennial-hills-hospital',
@@ -161,6 +167,7 @@ export const CURATED_AMENITIES = [
     address: '6900 N Durango Dr, Las Vegas, NV 89149',
     lat: 36.2875,
     lng: -115.2868,
+    sourceUrl: 'https://www.dignityhealth.org/las-vegas/locations/centennial-hills',
   },
   {
     id: 'mountainview-hospital',
@@ -170,6 +177,7 @@ export const CURATED_AMENITIES = [
     address: '3100 N Tenaya Way, Las Vegas, NV 89128',
     lat: 36.2135,
     lng: -115.2495,
+    sourceUrl: 'https://www.mountainview-hospital.com/',
   },
   {
     id: 'centennial-hills-shopping',
@@ -179,6 +187,7 @@ export const CURATED_AMENITIES = [
     address: '7250 N Durango Dr, Las Vegas, NV 89149',
     lat: 36.293,
     lng: -115.286,
+    sourceUrl: 'https://www.centennialhillsmarketplace.com/',
   },
   {
     id: 'centennial-high-school',
@@ -188,6 +197,7 @@ export const CURATED_AMENITIES = [
     address: '7101 W Alexander Rd, Las Vegas, NV 89129',
     lat: 36.272,
     lng: -115.276,
+    sourceUrl: 'https://www.centennialhs.org/',
   },
   {
     id: 'scherkenbach-elementary',
@@ -197,6 +207,7 @@ export const CURATED_AMENITIES = [
     address: '4150 N Cholla Ln, Las Vegas, NV 89129',
     lat: 36.235,
     lng: -115.268,
+    sourceUrl: 'https://scherkenbachelementary.com/',
   },
   {
     id: 'cvs-centennial',
@@ -206,6 +217,7 @@ export const CURATED_AMENITIES = [
     address: '7250 N Durango Dr Ste 100, Las Vegas, NV 89149',
     lat: 36.2925,
     lng: -115.2865,
+    sourceUrl: 'https://www.cvs.com/store-locator/store/89149',
   },
 ];
 

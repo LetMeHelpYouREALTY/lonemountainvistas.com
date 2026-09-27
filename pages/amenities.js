@@ -82,7 +82,7 @@ export default function AmenitiesPage() {
           </p>
           <p className="text-gray-700 mb-6 leading-relaxed">
             Floyd Lamb Park at Tule Springs adds lakeside paths, historic ranch buildings, and additional
-            picnic space a few miles north — a common weekend destination for northwest families.
+            picnic space a few miles north — a common weekend destination for northwest residents.
           </p>
 
           <h2 className="text-3xl font-bold text-[#0A2540] mt-12 mb-6">
@@ -124,10 +124,9 @@ export default function AmenitiesPage() {
             Schools
           </h2>
           <p className="text-gray-700 mb-6 leading-relaxed">
-            Clark County School District assigns schools by address. William &amp; Mary Scherkenbach
-            Elementary (4150 N Cholla Ln) and Centennial High School (7101 W Alexander Rd) are among the
-            public options associated with the 89129 area — confirm current zones on CCSD&apos;s website
-            before you write an offer.
+            Which CCSD schools are assigned to Lone Mountain Vistas addresses depends on the exact
+            street. Use the Clark County School District Zoning Search to verify assignments for any
+            address you are considering before you write an offer.
           </p>
 
           <h2 className="text-3xl font-bold text-[#0A2540] mt-12 mb-6">
