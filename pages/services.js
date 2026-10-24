@@ -29,7 +29,7 @@ export default function Services() {
           </h1>
 
           <p className="text-xl text-gray-700 mb-8 leading-relaxed">
-            As Head of the Lone Mountain Heights Team at Berkshire Hathaway HomeServices, I provide comprehensive real estate services tailored to your unique needs. Whether you're buying your dream home or selling your property, I'm here to guide you through every step of the process.
+            As Head of the Lone Mountain Heights Team, in real estate since 1983, I provide comprehensive real estate services tailored to your unique needs. Whether you're buying your dream home or selling your property, I'm here to guide you through every step of the process.
           </p>
 
           <h2 className="text-3xl font-bold text-[#0A2540] mt-12 mb-6">
@@ -80,7 +80,7 @@ export default function Services() {
             <div className="bg-white p-6 rounded-lg shadow-md">
               <h3 className="text-2xl font-semibold text-[#0A2540] mb-4">Professional Marketing</h3>
               <p className="text-gray-700 mb-4 leading-relaxed">
-                Your property deserves maximum exposure. I utilize Berkshire Hathaway HomeServices' extensive marketing resources, including professional photography, virtual tours, MLS listings, social media promotion, and targeted advertising.
+                Your property deserves maximum exposure. I use extensive marketing resources, including professional photography, virtual tours, MLS listings, social media promotion, and targeted advertising.
               </p>
               <ul className="list-disc list-inside text-gray-700 space-y-2 mt-4">
                 <li>Professional photography and virtual tours</li>

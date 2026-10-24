@@ -42,9 +42,13 @@ function MyApp({ Component, pageProps }) {
       `}</style>
 
       <Navbar />
-      <div className="pt-16 lg:pt-20">
+            <div className="pt-16 lg:pt-20">
         <Component {...pageProps} />
       </div>
+      <footer className="bg-[#0A2540] text-gray-300 text-sm text-center py-6 px-4">
+        <p>&copy; {new Date().getFullYear()} Lone Mountain Vistas · Dr. Jan Duffy, REALTOR®</p>
+        <p className="mt-1">Berkshire Hathaway HomeServices Nevada Properties since September 2008 · License S.0197614.LLC</p>
+      </footer>
     </>
   );
 }

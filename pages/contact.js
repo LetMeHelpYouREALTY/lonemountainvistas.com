@@ -59,11 +59,7 @@ export default function Contact() {
             <h2 className="text-2xl font-bold text-[#0A2540] mb-4">Office Information</h2>
             <div className="space-y-2 text-gray-700">
               <p><strong>Dr. Jan Duffy</strong></p>
-              <p>Berkshire Hathaway HomeServices Nevada Properties</p>
-              <p>Head of Lone Mountain Heights Team</p>
-              <p className="mt-4">
-                <strong>License #:</strong> S.0197614.LLC
-              </p>
+                            <p>Head of Lone Mountain Heights Team</p>
             </div>
           </div>
 

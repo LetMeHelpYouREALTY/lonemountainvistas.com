@@ -130,7 +130,7 @@ export default function Sellers() {
           </h2>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            Effective marketing reaches the right buyers and showcases your home in its best light. As part of Berkshire Hathaway HomeServices, I utilize comprehensive marketing strategies including professional photography, virtual tours, MLS listings, online advertising, social media promotion, and open houses.
+            Effective marketing reaches the right buyers and showcases your home in its best light. I use comprehensive marketing strategies including professional photography, virtual tours, MLS listings, online advertising, social media promotion, and open houses.
           </p>
 
           <h3 className="text-2xl font-semibold text-[#0A2540] mt-8 mb-4">

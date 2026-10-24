@@ -63,8 +63,8 @@ export default function Home() {
 
               <div className="hero-stats">
                 <div className="stat-item">
-                  <div className="stat-number">30+</div>
-                  <div className="stat-label">Years Experience</div>
+                  <div className="stat-number">Since 1983</div>
+                  <div className="stat-label">In Real Estate</div>
                 </div>
                 <div className="stat-item">
                   <div className="stat-number">$127M+</div>
@@ -83,7 +83,7 @@ export default function Home() {
               </div>
               <div className="agent-card-content">
                 <h3 className="agent-card-name">Dr. Jan Duffy</h3>
-                <p className="agent-card-company">Berkshire Hathaway HomeServices</p>
+                <p className="agent-card-company">REALTOR®</p>
                 <p className="agent-card-role">Head of Lone Mountain Heights Team</p>
                 <div className="agent-card-divider"></div>
                 <div className="agent-card-contact">

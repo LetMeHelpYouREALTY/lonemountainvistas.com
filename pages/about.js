@@ -9,7 +9,7 @@ export default function About() {
     <>
       <Head>
         <title>About Dr. Jan Duffy | Lone Mountain Vistas Real Estate Expert</title>
-        <meta name="description" content="Learn about Dr. Jan Duffy, Head of Lone Mountain Heights Team at Berkshire Hathaway HomeServices. 30+ years of real estate expertise in northwest Las Vegas." />
+        <meta name="description" content="Learn about Dr. Jan Duffy, Head of Lone Mountain Heights Team, in real estate since 1983 in northwest Las Vegas." />
         <meta property="og:title" content="About Dr. Jan Duffy | Lone Mountain Vistas" />
         <meta property="og:description" content="Meet Dr. Jan Duffy, your trusted real estate partner in Lone Mountain, Las Vegas." />
         <meta property="og:url" content="https://lonemountainvistas.com/about" />
@@ -29,7 +29,7 @@ export default function About() {
           </h1>
 
           <p className="text-xl text-gray-700 mb-8 leading-relaxed">
-            With over 30 years of real estate expertise and a deep commitment to the Lone Mountain community, Dr. Jan Duffy brings unparalleled knowledge and personalized service to every transaction. As Head of the Lone Mountain Heights Team at Berkshire Hathaway HomeServices Nevada Properties, she combines local insight with global resources to help clients achieve their real estate goals.
+            In real estate since 1983 and deeply committed to the Lone Mountain community, Dr. Jan Duffy is a Top 1% Las Vegas REALTOR® who brings unparalleled knowledge and personalized service to every transaction. As Head of the Lone Mountain Heights Team, she combines local insight with professional resources to help clients achieve their real estate goals.
           </p>
 
           <div className="bg-blue-50 border-l-4 border-[#1E6BB8] p-6 my-8 rounded">
@@ -39,9 +39,7 @@ export default function About() {
                 <p className="text-lg text-gray-700 mb-2">
                   <strong>Dr. Jan Duffy</strong>
                 </p>
-                <p className="text-gray-700 mb-2">
-                  Berkshire Hathaway HomeServices Nevada Properties
-                </p>
+                
                 <p className="text-gray-700 mb-2">
                   Head of Lone Mountain Heights Team
                 </p>
@@ -68,7 +66,7 @@ export default function About() {
           </h3>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            Living and working in the Lone Mountain area for decades, Dr. Duffy has an intimate understanding of local market trends, neighborhood characteristics, and property values. This local expertise enables her to provide clients with accurate market assessments, strategic pricing guidance, and insights into the unique attributes of each community.
+            Living and working in the Lone Mountain area, Dr. Duffy has an intimate understanding of local market trends, neighborhood characteristics, and property values. This local expertise enables her to provide clients with accurate market assessments, strategic pricing guidance, and insights into the unique attributes of each community.
           </p>
 
           <h3 className="text-2xl font-semibold text-[#0A2540] mt-8 mb-4">
@@ -84,13 +82,7 @@ export default function About() {
             <li>Post-sale support and referrals</li>
           </ul>
 
-          <h2 className="text-3xl font-bold text-[#0A2540] mt-12 mb-6">
-            The Berkshire Hathaway Advantage
-          </h2>
-
-          <p className="text-gray-700 mb-6 leading-relaxed">
-            As part of Berkshire Hathaway HomeServices, one of the most trusted names in real estate, Dr. Duffy has access to extensive resources, marketing tools, and a global network of real estate professionals. This affiliation ensures clients receive top-tier service backed by a brand recognized for integrity, innovation, and results.
-          </p>
+          
 
           <div className="mt-12 pt-8 border-t border-gray-200">
             <h3 className="text-2xl font-semibold text-[#0A2540] mb-4">Search Homes in Lone Mountain</h3>
