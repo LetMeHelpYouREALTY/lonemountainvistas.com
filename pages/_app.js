@@ -6,6 +6,28 @@ import Navbar from '../components/Navbar';
 // RealScout Agent ID - Update this with your actual RealScout agent encoded ID
 const REALSCOUT_AGENT_ID = "QWdlbnQtMjI1MDUw";
 
+const siteSchema = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'RealEstateAgent',
+      '@id': 'https://lonemountainvistas.com/#agent',
+      name: 'Dr. Jan Duffy, REALTOR®',
+      url: 'https://lonemountainvistas.com',
+      areaServed: { '@type': 'Place', name: 'Lone Mountain, Las Vegas, NV' },
+      memberOf: { '@type': 'Organization', name: 'Berkshire Hathaway HomeServices Nevada Properties' },
+      identifier: { '@type': 'PropertyValue', name: 'Nevada real estate license', value: 'S.0197614.LLC' },
+    },
+    {
+      '@type': 'WebSite',
+      '@id': 'https://lonemountainvistas.com/#website',
+      name: 'Lone Mountain Vistas',
+      url: 'https://lonemountainvistas.com',
+      publisher: { '@id': 'https://lonemountainvistas.com/#agent' },
+    },
+  ],
+};
+
 function MyApp({ Component, pageProps }) {
   return (
     <>
@@ -14,6 +36,10 @@ function MyApp({ Component, pageProps }) {
         {/* Preconnect to external domains for faster resource loading */}
         <link rel="preconnect" href="https://em.realscout.com" crossOrigin="anonymous" />
         <link rel="dns-prefetch" href="https://em.realscout.com" />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(siteSchema) }}
+        />
       </Head>
 
       {/* RealScout Widget Script - Loaded with lazy strategy to improve initial page load */}
