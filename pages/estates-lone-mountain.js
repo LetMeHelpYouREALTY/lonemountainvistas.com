@@ -31,7 +31,7 @@ export default function EstatesLoneMountain() {
           </h1>
 
           <p className="text-xl text-gray-700 mb-8 leading-relaxed">
-            The Estates at Lone Mountain represents one of northwest Las Vegas's most prestigious residential communities, offering discerning homebuyers an exceptional opportunity to own custom luxury homes in close proximity to Lone Mountain Regional Park. This carefully planned community combines sophisticated residential architecture with modern amenities and unparalleled access to outdoor recreation, creating a lifestyle that seamlessly integrates natural beauty with contemporary convenience.
+            The Estates at Lone Mountain represents one of northwest Las Vegas&apos;s most prestigious residential communities, offering discerning homebuyers an exceptional opportunity to own custom luxury homes in close proximity to Lone Mountain Regional Park. This carefully planned community combines sophisticated residential architecture with modern amenities and unparalleled access to outdoor recreation, creating a lifestyle that seamlessly integrates natural beauty with contemporary convenience.
           </p>
 
           <h2 className="text-3xl font-bold text-[#0A2540] mt-12 mb-6">
@@ -39,7 +39,7 @@ export default function EstatesLoneMountain() {
           </h2>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            The Estates at Lone Mountain enjoys a privileged position at the base of Lone Mountain, providing residents with immediate access to one of Las Vegas's most remarkable regional parks. This strategic location creates a unique residential experience where natural beauty becomes an integral part of daily life, while maintaining convenient proximity to urban amenities and major transportation routes.
+            The Estates at Lone Mountain enjoys a privileged position at the base of Lone Mountain, providing residents with immediate access to one of Las Vegas&apos;s most remarkable regional parks. This strategic location creates a unique residential experience where natural beauty becomes an integral part of daily life, while maintaining convenient proximity to urban amenities and major transportation routes.
           </p>
 
           <h3 className="text-2xl font-semibold text-[#0A2540] mt-8 mb-4">
@@ -47,11 +47,11 @@ export default function EstatesLoneMountain() {
           </h3>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            Residents of The Estates at Lone Mountain benefit from walking or short driving distance access to Lone Mountain Regional Park's extensive trail system, recreational facilities, and natural areas. This proximity allows homeowners to incorporate hiking, walking, and outdoor recreation into their daily routines without extensive travel, creating an active lifestyle that many modern homebuyers seek. The park's 2.1-mile loop trail, challenging summit hikes, and panoramic desert vistas become essentially an extension of the community's amenities.
+            Residents of The Estates at Lone Mountain benefit from walking or short driving distance access to Lone Mountain Regional Park&apos;s extensive trail system, recreational facilities, and natural areas. This proximity allows homeowners to incorporate hiking, walking, and outdoor recreation into their daily routines without extensive travel, creating an active lifestyle that many modern homebuyers seek. The park&apos;s 2.1-mile loop trail, challenging summit hikes, and panoramic desert vistas become essentially an extension of the community&apos;s amenities.
           </p>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            The immediate access to the park enhances property values and quality of life in measurable ways. Studies consistently demonstrate that proximity to parks and natural areas contributes to increased property values, improved physical health, and enhanced mental well-being. For residents of The Estates at Lone Mountain, the park's presence represents more than just convenience—it becomes a defining feature of the community's character and appeal.
+            The immediate access to the park enhances property values and quality of life in measurable ways. Studies consistently demonstrate that proximity to parks and natural areas contributes to increased property values, improved physical health, and enhanced mental well-being. For residents of The Estates at Lone Mountain, the park&apos;s presence represents more than just convenience—it becomes a defining feature of the community&apos;s character and appeal.
           </p>
 
           <h3 className="text-2xl font-semibold text-[#0A2540] mt-8 mb-4">
@@ -59,11 +59,11 @@ export default function EstatesLoneMountain() {
           </h3>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            The community's location near the 215 Beltway provides residents with efficient access to destinations throughout the Las Vegas Valley. This connectivity is particularly valuable for professionals who need to commute to various parts of the metropolitan area, as well as families who appreciate the ability to quickly reach shopping, dining, entertainment, and educational facilities. The 215 freeway serves as a major artery connecting northwest Las Vegas to Summerlin, Downtown Las Vegas, and other key areas.
+            The community&apos;s location near the 215 Beltway provides residents with efficient access to destinations throughout the Las Vegas Valley. This connectivity is particularly valuable for professionals who need to commute to various parts of the metropolitan area, as well as families who appreciate the ability to quickly reach shopping, dining, entertainment, and educational facilities. The 215 freeway serves as a major artery connecting northwest Las Vegas to Summerlin, Downtown Las Vegas, and other key areas.
           </p>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            The strategic positioning means that while residents enjoy the tranquility and natural setting of a mountain-adjacent community, they remain connected to the economic and cultural opportunities that make Las Vegas an attractive place to live and work. This balance between natural serenity and urban accessibility represents one of The Estates at Lone Mountain's most compelling advantages for potential homebuyers.
+            The strategic positioning means that while residents enjoy the tranquility and natural setting of a mountain-adjacent community, they remain connected to the economic and cultural opportunities that make Las Vegas an attractive place to live and work. This balance between natural serenity and urban accessibility represents one of The Estates at Lone Mountain&apos;s most compelling advantages for potential homebuyers.
           </p>
 
           <h2 className="text-3xl font-bold text-[#0A2540] mt-12 mb-6">
@@ -71,7 +71,7 @@ export default function EstatesLoneMountain() {
           </h2>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            The Estates at Lone Mountain distinguishes itself through its emphasis on custom home construction, allowing homeowners to work with builders and architects to create residences that reflect their personal preferences, lifestyle needs, and aesthetic sensibilities. This approach to residential development ensures that each property becomes a unique expression of its owner's vision while maintaining the cohesive character that defines a well-planned community.
+            The Estates at Lone Mountain distinguishes itself through its emphasis on custom home construction, allowing homeowners to work with builders and architects to create residences that reflect their personal preferences, lifestyle needs, and aesthetic sensibilities. This approach to residential development ensures that each property becomes a unique expression of its owner&apos;s vision while maintaining the cohesive character that defines a well-planned community.
           </p>
 
           <h3 className="text-2xl font-semibold text-[#0A2540] mt-8 mb-4">
@@ -119,11 +119,11 @@ export default function EstatesLoneMountain() {
           </h3>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            The community's proximity to Lone Mountain Regional Park means that residents have ready access to the park's comprehensive recreational facilities, including equestrian arenas, tennis courts, dog parks, playgrounds, and picnic areas. This integration effectively extends the community's amenity package to include resources that would be difficult for individual developments to provide independently.
+            The community&apos;s proximity to Lone Mountain Regional Park means that residents have ready access to the park&apos;s comprehensive recreational facilities, including equestrian arenas, tennis courts, dog parks, playgrounds, and picnic areas. This integration effectively extends the community&apos;s amenity package to include resources that would be difficult for individual developments to provide independently.
           </p>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            For families with children, this proximity is particularly valuable, as the park's playground areas and open spaces provide safe, engaging environments for outdoor play and recreation. The park's extensive trail network offers opportunities for family hiking, walking, and exploring that can become regular activities rather than special occasions requiring extended travel.
+            For families with children, this proximity is particularly valuable, as the park&apos;s playground areas and open spaces provide safe, engaging environments for outdoor play and recreation. The park&apos;s extensive trail network offers opportunities for family hiking, walking, and exploring that can become regular activities rather than special occasions requiring extended travel.
           </p>
 
           <h2 className="text-3xl font-bold text-[#0A2540] mt-12 mb-6">
@@ -131,15 +131,15 @@ export default function EstatesLoneMountain() {
           </h2>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            The Estates at Lone Mountain's location in northwest Las Vegas places residents within convenient distance of major shopping, dining, and service centers, ensuring that daily needs and lifestyle preferences can be easily accommodated. This accessibility is essential for modern homeowners who value both natural setting and urban convenience.
+            The Estates at Lone Mountain&apos;s location in northwest Las Vegas places residents within convenient distance of major shopping, dining, and service centers, ensuring that daily needs and lifestyle preferences can be easily accommodated. This accessibility is essential for modern homeowners who value both natural setting and urban convenience.
           </p>
 
           <h3 className="text-2xl font-semibold text-[#0A2540] mt-8 mb-4">
-            Proximity to Summerlin's Retail and Dining Scene
+            Proximity to Summerlin&apos;s Retail and Dining Scene
           </h3>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            Summerlin, one of Las Vegas's premier master-planned communities, lies within easy driving distance and offers an extensive array of shopping centers, restaurants, entertainment venues, and professional services. From upscale shopping destinations to casual and fine dining establishments, Summerlin provides residents of The Estates at Lone Mountain with access to the retail and service options expected in a major metropolitan area.
+            Summerlin, one of Las Vegas&apos;s premier master-planned communities, lies within easy driving distance and offers an extensive array of shopping centers, restaurants, entertainment venues, and professional services. From upscale shopping destinations to casual and fine dining establishments, Summerlin provides residents of The Estates at Lone Mountain with access to the retail and service options expected in a major metropolitan area.
           </p>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
@@ -175,7 +175,7 @@ export default function EstatesLoneMountain() {
           </h3>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            Properties at the base of Lone Mountain represent a finite resource, as the mountain itself and surrounding protected parkland limit the potential for additional residential development in the immediate area. This scarcity, combined with the location's natural advantages and accessibility, creates a premium that tends to preserve and enhance property values over time.
+            Properties at the base of Lone Mountain represent a finite resource, as the mountain itself and surrounding protected parkland limit the potential for additional residential development in the immediate area. This scarcity, combined with the location&apos;s natural advantages and accessibility, creates a premium that tends to preserve and enhance property values over time.
           </p>
 
           <h3 className="text-2xl font-semibold text-[#0A2540] mt-8 mb-4">
@@ -191,7 +191,7 @@ export default function EstatesLoneMountain() {
           </h2>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            The Estates at Lone Mountain appeals to homeowners who seek a lifestyle that balances natural beauty, outdoor recreation, and modern convenience. The community's character reflects these values, creating an environment where residents can enjoy active, engaged living while maintaining privacy and individual expression through custom home design.
+            The Estates at Lone Mountain appeals to homeowners who seek a lifestyle that balances natural beauty, outdoor recreation, and modern convenience. The community&apos;s character reflects these values, creating an environment where residents can enjoy active, engaged living while maintaining privacy and individual expression through custom home design.
           </p>
 
           <h3 className="text-2xl font-semibold text-[#0A2540] mt-8 mb-4">
@@ -199,7 +199,7 @@ export default function EstatesLoneMountain() {
           </h3>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            The immediate access to Lone Mountain Regional Park encourages an active lifestyle that many contemporary homebuyers prioritize. Residents can easily incorporate hiking, walking, and outdoor exploration into their daily or weekly routines, contributing to physical health and overall well-being. The park's diverse trail system accommodates various activity levels and interests, ensuring that residents of all ages and fitness levels can participate in outdoor recreation.
+            The immediate access to Lone Mountain Regional Park encourages an active lifestyle that many contemporary homebuyers prioritize. Residents can easily incorporate hiking, walking, and outdoor exploration into their daily or weekly routines, contributing to physical health and overall well-being. The park&apos;s diverse trail system accommodates various activity levels and interests, ensuring that residents of all ages and fitness levels can participate in outdoor recreation.
           </p>
 
           <h3 className="text-2xl font-semibold text-[#0A2540] mt-8 mb-4">
@@ -236,7 +236,7 @@ export default function EstatesLoneMountain() {
 
           <div className="bg-blue-50 border-l-4 border-[#3A8DDE] p-6 my-8">
             <p className="text-gray-800 leading-relaxed">
-              <strong>Exploring The Estates at Lone Mountain:</strong> If you're considering luxury homeownership in northwest Las Vegas, The Estates at Lone Mountain offers a unique combination of custom construction, natural setting, and convenient access to recreational and urban amenities. Contact our team to learn more about available properties and building opportunities in this exceptional community.
+              <strong>Exploring The Estates at Lone Mountain:</strong> If you&apos;re considering luxury homeownership in northwest Las Vegas, The Estates at Lone Mountain offers a unique combination of custom construction, natural setting, and convenient access to recreational and urban amenities. Contact our team to learn more about available properties and building opportunities in this exceptional community.
             </p>
           </div>
 
@@ -255,7 +255,7 @@ export default function EstatesLoneMountain() {
               </li>
               <li>
                 <Link href="/living-lone-mountain" className="text-[#3A8DDE] hover:underline">
-                  Discover what it's like living in Lone Mountain
+                  Discover what it&apos;s like living in Lone Mountain
                 </Link>
               </li>
               <li>

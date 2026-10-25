@@ -31,7 +31,7 @@ export default function LivingLoneMountain() {
           </h1>
 
           <p className="text-xl text-gray-700 mb-8 leading-relaxed">
-            Living in Lone Mountain, northwest Las Vegas, offers residents a unique combination of natural beauty, recreational opportunities, and convenient access to urban amenities. This rapidly developing area has established itself as one of the Las Vegas Valley's most desirable residential destinations, attracting families, professionals, and retirees who appreciate the balance between outdoor recreation and modern convenience that defines the Lone Mountain lifestyle.
+            Living in Lone Mountain, northwest Las Vegas, offers residents a unique combination of natural beauty, recreational opportunities, and convenient access to urban amenities. This rapidly developing area has established itself as one of the Las Vegas Valley&apos;s most desirable residential destinations, attracting families, professionals, and retirees who appreciate the balance between outdoor recreation and modern convenience that defines the Lone Mountain lifestyle.
           </p>
 
           <h2 className="text-3xl font-bold text-[#0A2540] mt-12 mb-6">
@@ -51,7 +51,7 @@ export default function LivingLoneMountain() {
           </p>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            The community's character reflects its natural setting, with an emphasis on outdoor living, environmental awareness, and maintaining connections to the desert landscape that surrounds the area. Residents tend to be engaged in community activities, supportive of local businesses, and committed to preserving the area's natural assets while supporting thoughtful development that enhances rather than detracts from the environment.
+            The community&apos;s character reflects its natural setting, with an emphasis on outdoor living, environmental awareness, and maintaining connections to the desert landscape that surrounds the area. Residents tend to be engaged in community activities, supportive of local businesses, and committed to preserving the area&apos;s natural assets while supporting thoughtful development that enhances rather than detracts from the environment.
           </p>
 
           <h3 className="text-2xl font-semibold text-[#0A2540] mt-8 mb-4">
@@ -63,7 +63,7 @@ export default function LivingLoneMountain() {
           </p>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            This residential diversity contributes to the area's appeal, as it creates a community where people from various economic backgrounds can enjoy the benefits of living in northwest Las Vegas. The mix of housing types also supports a range of lifestyle preferences, from those seeking large lots and custom-built homes to those preferring lower-maintenance options that still provide access to the area's amenities and natural setting.
+            This residential diversity contributes to the area&apos;s appeal, as it creates a community where people from various economic backgrounds can enjoy the benefits of living in northwest Las Vegas. The mix of housing types also supports a range of lifestyle preferences, from those seeking large lots and custom-built homes to those preferring lower-maintenance options that still provide access to the area&apos;s amenities and natural setting.
           </p>
 
           <h2 className="text-3xl font-bold text-[#0A2540] mt-12 mb-6">
@@ -79,11 +79,11 @@ export default function LivingLoneMountain() {
           </h3>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            Lone Mountain Regional Park serves as the community's primary recreational resource, offering residents immediate access to hiking trails, walking paths, and outdoor recreation facilities. The park's 2.1-mile loop trail provides an excellent option for daily exercise, family walks, and casual recreation, while the more challenging summit trail appeals to serious hikers seeking panoramic views and physical challenges.
+            Lone Mountain Regional Park serves as the community&apos;s primary recreational resource, offering residents immediate access to hiking trails, walking paths, and outdoor recreation facilities. The park&apos;s 2.1-mile loop trail provides an excellent option for daily exercise, family walks, and casual recreation, while the more challenging summit trail appeals to serious hikers seeking panoramic views and physical challenges.
           </p>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            The park's extensive facilities, including equestrian arenas, tennis courts, dog parks, playgrounds, and picnic areas, mean that residents can pursue diverse recreational interests without extensive travel. This accessibility makes it practical to incorporate outdoor activities into regular routines, contributing to healthier, more active lifestyles that many contemporary residents prioritize.
+            The park&apos;s extensive facilities, including equestrian arenas, tennis courts, dog parks, playgrounds, and picnic areas, mean that residents can pursue diverse recreational interests without extensive travel. This accessibility makes it practical to incorporate outdoor activities into regular routines, contributing to healthier, more active lifestyles that many contemporary residents prioritize.
           </p>
 
           <h3 className="text-2xl font-semibold text-[#0A2540] mt-8 mb-4">
@@ -91,7 +91,7 @@ export default function LivingLoneMountain() {
           </h3>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            The presence of equestrian facilities at Lone Mountain Regional Park reflects the area's heritage and provides opportunities for residents interested in horseback riding and equestrian activities. These facilities allow equestrians to pursue their interests while enjoying the natural setting, creating a recreational option that's relatively rare in urban and suburban environments.
+            The presence of equestrian facilities at Lone Mountain Regional Park reflects the area&apos;s heritage and provides opportunities for residents interested in horseback riding and equestrian activities. These facilities allow equestrians to pursue their interests while enjoying the natural setting, creating a recreational option that&apos;s relatively rare in urban and suburban environments.
           </p>
 
           <h3 className="text-2xl font-semibold text-[#0A2540] mt-8 mb-4">
@@ -99,7 +99,7 @@ export default function LivingLoneMountain() {
           </h3>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            For residents with dogs, the park's dedicated dog parks provide safe, enclosed spaces where pets can exercise and socialize. This amenity is particularly valuable in a community where many residents own pets and appreciate the ability to incorporate their animals into outdoor recreation activities. The dog parks are designed with appropriate surfacing, shade structures, and separation areas that accommodate dogs of different sizes and temperaments.
+            For residents with dogs, the park&apos;s dedicated dog parks provide safe, enclosed spaces where pets can exercise and socialize. This amenity is particularly valuable in a community where many residents own pets and appreciate the ability to incorporate their animals into outdoor recreation activities. The dog parks are designed with appropriate surfacing, shade structures, and separation areas that accommodate dogs of different sizes and temperaments.
           </p>
 
           <h3 className="text-2xl font-semibold text-[#0A2540] mt-8 mb-4">
@@ -107,7 +107,7 @@ export default function LivingLoneMountain() {
           </h3>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            Families living in Lone Mountain benefit from the park's playground areas, open spaces, and picnic facilities that support family activities and social gatherings. These amenities make it easy for families to spend time outdoors together, whether for casual play, organized activities, or special occasions. The safe, well-maintained facilities provide parents with confidence while children enjoy active recreation.
+            Families living in Lone Mountain benefit from the park&apos;s playground areas, open spaces, and picnic facilities that support family activities and social gatherings. These amenities make it easy for families to spend time outdoors together, whether for casual play, organized activities, or special occasions. The safe, well-maintained facilities provide parents with confidence while children enjoy active recreation.
           </p>
 
           <h2 className="text-3xl font-bold text-[#0A2540] mt-12 mb-6">
@@ -115,7 +115,7 @@ export default function LivingLoneMountain() {
           </h2>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            While Lone Mountain offers a natural, outdoor-oriented lifestyle, residents also benefit from convenient access to comprehensive shopping, dining, and service options that meet daily needs and lifestyle preferences. The area's proximity to major retail and dining destinations ensures that residents can enjoy urban conveniences without compromising the natural setting that makes the area attractive.
+            While Lone Mountain offers a natural, outdoor-oriented lifestyle, residents also benefit from convenient access to comprehensive shopping, dining, and service options that meet daily needs and lifestyle preferences. The area&apos;s proximity to major retail and dining destinations ensures that residents can enjoy urban conveniences without compromising the natural setting that makes the area attractive.
           </p>
 
           <h3 className="text-2xl font-semibold text-[#0A2540] mt-8 mb-4">
@@ -123,7 +123,7 @@ export default function LivingLoneMountain() {
           </h3>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            Summerlin, one of Las Vegas's premier master-planned communities, lies within easy driving distance and offers an extensive array of shopping centers, restaurants, and services. From upscale shopping destinations featuring national retailers and local boutiques to diverse dining options ranging from casual family restaurants to fine dining establishments, Summerlin provides Lone Mountain residents with access to the retail and service options expected in a major metropolitan area.
+            Summerlin, one of Las Vegas&apos;s premier master-planned communities, lies within easy driving distance and offers an extensive array of shopping centers, restaurants, and services. From upscale shopping destinations featuring national retailers and local boutiques to diverse dining options ranging from casual family restaurants to fine dining establishments, Summerlin provides Lone Mountain residents with access to the retail and service options expected in a major metropolitan area.
           </p>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
@@ -155,7 +155,7 @@ export default function LivingLoneMountain() {
           </h2>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            Lone Mountain's location provides excellent transportation connectivity that supports efficient commuting, access to regional destinations, and integration with the broader Las Vegas metropolitan area's transportation network.
+            Lone Mountain&apos;s location provides excellent transportation connectivity that supports efficient commuting, access to regional destinations, and integration with the broader Las Vegas metropolitan area&apos;s transportation network.
           </p>
 
           <h3 className="text-2xl font-semibold text-[#0A2540] mt-8 mb-4">
@@ -199,7 +199,7 @@ export default function LivingLoneMountain() {
           </h3>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            In addition to public schools, the northwest Las Vegas area offers private and charter school options that provide alternative educational approaches and philosophies. Families interested in these options should research available schools, admission requirements, and educational programs to determine which options best match their children's needs and family values.
+            In addition to public schools, the northwest Las Vegas area offers private and charter school options that provide alternative educational approaches and philosophies. Families interested in these options should research available schools, admission requirements, and educational programs to determine which options best match their children&apos;s needs and family values.
           </p>
 
           <h2 className="text-3xl font-bold text-[#0A2540] mt-12 mb-6">
@@ -207,7 +207,7 @@ export default function LivingLoneMountain() {
           </h2>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            Access to quality healthcare is an important consideration for residents of any community, and Lone Mountain's location provides convenient access to medical services and facilities.
+            Access to quality healthcare is an important consideration for residents of any community, and Lone Mountain&apos;s location provides convenient access to medical services and facilities.
           </p>
 
           <h3 className="text-2xl font-semibold text-[#0A2540] mt-8 mb-4">
@@ -231,11 +231,11 @@ export default function LivingLoneMountain() {
           </h3>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            The Lone Mountain area has experienced consistent development and property value appreciation as the northwest Las Vegas region has grown. The area's natural advantages, proximity to recreational amenities, and convenient location have supported property values and attracted continued residential development.
+            The Lone Mountain area has experienced consistent development and property value appreciation as the northwest Las Vegas region has grown. The area&apos;s natural advantages, proximity to recreational amenities, and convenient location have supported property values and attracted continued residential development.
           </p>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            Properties in close proximity to Lone Mountain Regional Park, particularly in luxury communities like The Estates at Lone Mountain, typically command premium prices that reflect the location's advantages. The limited availability of properties with immediate park access contributes to value retention and appreciation potential.
+            Properties in close proximity to Lone Mountain Regional Park, particularly in luxury communities like The Estates at Lone Mountain, typically command premium prices that reflect the location&apos;s advantages. The limited availability of properties with immediate park access contributes to value retention and appreciation potential.
           </p>
 
           <h3 className="text-2xl font-semibold text-[#0A2540] mt-8 mb-4">
@@ -243,12 +243,12 @@ export default function LivingLoneMountain() {
           </h3>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            Real estate investment in Lone Mountain offers several factors that support long-term value, including limited supply in desirable locations, proximity to natural and recreational amenities, access to transportation and urban services, and the area's reputation as a desirable residential destination. These factors contribute to investment appeal for both primary residence buyers and those considering real estate as an investment asset.
+            Real estate investment in Lone Mountain offers several factors that support long-term value, including limited supply in desirable locations, proximity to natural and recreational amenities, access to transportation and urban services, and the area&apos;s reputation as a desirable residential destination. These factors contribute to investment appeal for both primary residence buyers and those considering real estate as an investment asset.
           </p>
 
           <div className="bg-blue-50 border-l-4 border-[#3A8DDE] p-6 my-8">
             <p className="text-gray-800 leading-relaxed">
-              <strong>Discover Lone Mountain Living:</strong> If you're considering making Lone Mountain your home, our team can provide detailed information about available properties, community amenities, and what makes this area one of northwest Las Vegas's most desirable residential destinations. Contact us to explore homeownership opportunities in Lone Mountain.
+              <strong>Discover Lone Mountain Living:</strong> If you&apos;re considering making Lone Mountain your home, our team can provide detailed information about available properties, community amenities, and what makes this area one of northwest Las Vegas&apos;s most desirable residential destinations. Contact us to explore homeownership opportunities in Lone Mountain.
             </p>
           </div>
 
