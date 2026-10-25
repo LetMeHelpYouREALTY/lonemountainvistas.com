@@ -31,7 +31,7 @@ export default function LoneMountainPark() {
           </h1>
 
           <p className="text-xl text-gray-700 mb-8 leading-relaxed">
-            Nestled in the northwest corner of Las Vegas, Lone Mountain Regional Park stands as one of the city's premier outdoor destinations, offering visitors spectacular desert vistas, challenging summit hikes, and panoramic views that stretch across the valley. This remarkable 2,000-acre regional park provides an accessible escape from urban life while maintaining convenient proximity to the vibrant Las Vegas Strip and surrounding communities.
+            Nestled in the northwest corner of Las Vegas, Lone Mountain Regional Park stands as one of the city&apos;s premier outdoor destinations, offering visitors spectacular desert vistas, challenging summit hikes, and panoramic views that stretch across the valley. This remarkable 2,000-acre regional park provides an accessible escape from urban life while maintaining convenient proximity to the vibrant Las Vegas Strip and surrounding communities.
           </p>
 
           <h2 className="text-3xl font-bold text-[#0A2540] mt-12 mb-6">
@@ -39,7 +39,7 @@ export default function LoneMountainPark() {
           </h2>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            Lone Mountain Regional Park features a comprehensive network of trails designed to accommodate hikers of all experience levels. The park's trail system allows visitors to choose between leisurely walks around the mountain's base or more strenuous ascents to its summit, each offering unique perspectives on the surrounding desert landscape and urban skyline.
+            Lone Mountain Regional Park features a comprehensive network of trails designed to accommodate hikers of all experience levels. The park&apos;s trail system allows visitors to choose between leisurely walks around the mountain&apos;s base or more strenuous ascents to its summit, each offering unique perspectives on the surrounding desert landscape and urban skyline.
           </p>
 
           <h3 className="text-2xl font-semibold text-[#0A2540] mt-8 mb-4">
@@ -47,11 +47,11 @@ export default function LoneMountainPark() {
           </h3>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            The primary trail at Lone Mountain Regional Park is the well-maintained 2.1-mile loop that circles the mountain's base. This relatively flat, accessible path provides an excellent introduction to the park's natural beauty without requiring extensive hiking experience or physical conditioning. Families with young children, seniors, and casual walkers will find this loop perfectly suited to their needs.
+            The primary trail at Lone Mountain Regional Park is the well-maintained 2.1-mile loop that circles the mountain&apos;s base. This relatively flat, accessible path provides an excellent introduction to the park&apos;s natural beauty without requiring extensive hiking experience or physical conditioning. Families with young children, seniors, and casual walkers will find this loop perfectly suited to their needs.
           </p>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            As you traverse the loop trail, you'll encounter diverse desert vegetation including creosote bushes, desert sage, and various cacti species that have adapted to the harsh Mojave Desert climate. The trail offers numerous scenic overlooks where you can pause to admire the contrast between the natural desert environment and the distant Las Vegas cityscape. Many visitors find this trail particularly enjoyable during early morning hours or late afternoon when the desert light creates dramatic shadows across the mountain's face.
+            As you traverse the loop trail, you&apos;ll encounter diverse desert vegetation including creosote bushes, desert sage, and various cacti species that have adapted to the harsh Mojave Desert climate. The trail offers numerous scenic overlooks where you can pause to admire the contrast between the natural desert environment and the distant Las Vegas cityscape. Many visitors find this trail particularly enjoyable during early morning hours or late afternoon when the desert light creates dramatic shadows across the mountain&apos;s face.
           </p>
 
           <h3 className="text-2xl font-semibold text-[#0A2540] mt-8 mb-4">
@@ -59,7 +59,7 @@ export default function LoneMountainPark() {
           </h3>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            For those seeking a more challenging adventure, the summit trail provides a steep ascent to Lone Mountain's peak, rewarding hikers with some of the most spectacular panoramic views available in the Las Vegas area. This moderate-to-strenuous trail spans approximately 1.2 miles with an elevation gain of 534 feet, making it an ideal challenge for intermediate hikers looking to test their endurance while enjoying breathtaking scenery.
+            For those seeking a more challenging adventure, the summit trail provides a steep ascent to Lone Mountain&apos;s peak, rewarding hikers with some of the most spectacular panoramic views available in the Las Vegas area. This moderate-to-strenuous trail spans approximately 1.2 miles with an elevation gain of 534 feet, making it an ideal challenge for intermediate hikers looking to test their endurance while enjoying breathtaking scenery.
           </p>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
@@ -71,7 +71,7 @@ export default function LoneMountainPark() {
           </h3>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            A separate trailhead at Lone Mountain Regional Park offers access to a more extensive 2.7-mile loop that showcases the area's volcanic geological features and diverse desert flora. This trail system provides hikers with opportunities to observe the region's unique geological formations, including evidence of ancient volcanic activity that shaped the mountain's distinctive profile.
+            A separate trailhead at Lone Mountain Regional Park offers access to a more extensive 2.7-mile loop that showcases the area&apos;s volcanic geological features and diverse desert flora. This trail system provides hikers with opportunities to observe the region&apos;s unique geological formations, including evidence of ancient volcanic activity that shaped the mountain&apos;s distinctive profile.
           </p>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
@@ -103,11 +103,11 @@ export default function LoneMountainPark() {
           </h3>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            The summit's view of Las Vegas provides a unique perspective on the city that differs dramatically from the ground-level experience. From this elevated vantage point, the Strip appears as a concentrated ribbon of light and activity against the broader metropolitan area. The view encompasses not just the famous resort corridor but also the extensive residential neighborhoods, commercial districts, and infrastructure that support the region's population.
+            The summit&apos;s view of Las Vegas provides a unique perspective on the city that differs dramatically from the ground-level experience. From this elevated vantage point, the Strip appears as a concentrated ribbon of light and activity against the broader metropolitan area. The view encompasses not just the famous resort corridor but also the extensive residential neighborhoods, commercial districts, and infrastructure that support the region&apos;s population.
           </p>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            Many visitors find that the summit view is particularly spectacular at sunset, when the desert sky transforms into a canvas of vibrant colors, and the city lights begin to illuminate the valley below. This golden hour experience has made Lone Mountain a popular destination for photographers, couples seeking romantic views, and anyone looking to gain a new appreciation for the Las Vegas metropolitan area's scale and complexity.
+            Many visitors find that the summit view is particularly spectacular at sunset, when the desert sky transforms into a canvas of vibrant colors, and the city lights begin to illuminate the valley below. This golden hour experience has made Lone Mountain a popular destination for photographers, couples seeking romantic views, and anyone looking to gain a new appreciation for the Las Vegas metropolitan area&apos;s scale and complexity.
           </p>
 
           <h2 className="text-3xl font-bold text-[#0A2540] mt-12 mb-6">
@@ -115,15 +115,15 @@ export default function LoneMountainPark() {
           </h2>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            Understanding trail difficulty ratings helps ensure a safe and enjoyable hiking experience at Lone Mountain Regional Park. The park's trails range from easy, accessible paths suitable for all ages to moderate, challenging routes that require adequate physical preparation and appropriate hiking equipment.
+            Understanding trail difficulty ratings helps ensure a safe and enjoyable hiking experience at Lone Mountain Regional Park. The park&apos;s trails range from easy, accessible paths suitable for all ages to moderate, challenging routes that require adequate physical preparation and appropriate hiking equipment.
           </p>
 
           <h3 className="text-2xl font-semibold text-[#0A2540] mt-8 mb-4">
-            Assessing the Summit Trail's Moderate Challenge
+            Assessing the Summit Trail&apos;s Moderate Challenge
           </h3>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            The summit trail is classified as moderate difficulty due to its combination of distance, elevation gain, and terrain challenges. The 1.2-mile ascent with 534 feet of elevation gain requires reasonable cardiovascular fitness and basic hiking experience. The trail's steep sections, rocky surfaces, and exposure to desert sun demand respect and proper preparation.
+            The summit trail is classified as moderate difficulty due to its combination of distance, elevation gain, and terrain challenges. The 1.2-mile ascent with 534 feet of elevation gain requires reasonable cardiovascular fitness and basic hiking experience. The trail&apos;s steep sections, rocky surfaces, and exposure to desert sun demand respect and proper preparation.
           </p>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
@@ -135,11 +135,11 @@ export default function LoneMountainPark() {
           </h3>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            Safety should always be a primary consideration when hiking in desert environments. Lone Mountain Regional Park's trails, while well-maintained, traverse natural terrain that can present hazards including loose rocks, steep drop-offs, and extreme temperatures. Visitors should inform others of their hiking plans, carry a charged mobile phone, and be prepared to turn back if conditions become unsafe.
+            Safety should always be a primary consideration when hiking in desert environments. Lone Mountain Regional Park&apos;s trails, while well-maintained, traverse natural terrain that can present hazards including loose rocks, steep drop-offs, and extreme temperatures. Visitors should inform others of their hiking plans, carry a charged mobile phone, and be prepared to turn back if conditions become unsafe.
           </p>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            The park's popularity means that trails are generally well-traveled, providing a measure of safety through the presence of other hikers. However, it's important to remember that cell phone reception may be limited in some areas, and assistance may not be immediately available. Carrying a basic first aid kit, wearing appropriate clothing, and respecting your physical limits are essential practices for safe desert hiking.
+            The park&apos;s popularity means that trails are generally well-traveled, providing a measure of safety through the presence of other hikers. However, it&apos;s important to remember that cell phone reception may be limited in some areas, and assistance may not be immediately available. Carrying a basic first aid kit, wearing appropriate clothing, and respecting your physical limits are essential practices for safe desert hiking.
           </p>
 
           <h2 className="text-3xl font-bold text-[#0A2540] mt-12 mb-6">
@@ -147,7 +147,7 @@ export default function LoneMountainPark() {
           </h2>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            Beyond its exceptional hiking trails, Lone Mountain Regional Park offers a comprehensive array of recreational facilities that make it a true community asset. The park's thoughtful design accommodates diverse interests and activity levels, ensuring that visitors can enjoy the natural setting in ways that suit their preferences and abilities.
+            Beyond its exceptional hiking trails, Lone Mountain Regional Park offers a comprehensive array of recreational facilities that make it a true community asset. The park&apos;s thoughtful design accommodates diverse interests and activity levels, ensuring that visitors can enjoy the natural setting in ways that suit their preferences and abilities.
           </p>
 
           <h3 className="text-2xl font-semibold text-[#0A2540] mt-8 mb-4">
@@ -155,7 +155,7 @@ export default function LoneMountainPark() {
           </h3>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            The park includes dedicated equestrian arenas and trails that allow horseback riders to experience Lone Mountain's natural beauty from a unique perspective. These facilities reflect the area's ranching heritage and provide opportunities for equestrians to explore the desert landscape in traditional fashion. The equestrian areas are designed to accommodate both casual riders and those participating in organized activities or training.
+            The park includes dedicated equestrian arenas and trails that allow horseback riders to experience Lone Mountain&apos;s natural beauty from a unique perspective. These facilities reflect the area&apos;s ranching heritage and provide opportunities for equestrians to explore the desert landscape in traditional fashion. The equestrian areas are designed to accommodate both casual riders and those participating in organized activities or training.
           </p>
 
           <h3 className="text-2xl font-semibold text-[#0A2540] mt-8 mb-4">
@@ -179,7 +179,7 @@ export default function LoneMountainPark() {
           </h3>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            The park's playground areas offer safe, modern equipment designed to engage children of various ages while providing parents with peace of mind through appropriate safety features and visibility. Nearby tennis courts provide opportunities for active recreation, making the park a comprehensive destination that combines natural exploration with traditional recreational activities.
+            The park&apos;s playground areas offer safe, modern equipment designed to engage children of various ages while providing parents with peace of mind through appropriate safety features and visibility. Nearby tennis courts provide opportunities for active recreation, making the park a comprehensive destination that combines natural exploration with traditional recreational activities.
           </p>
 
           <h2 className="text-3xl font-bold text-[#0A2540] mt-12 mb-6">
@@ -187,7 +187,7 @@ export default function LoneMountainPark() {
           </h2>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            Lone Mountain Regional Park's location in northwest Las Vegas provides exceptional accessibility while maintaining a sense of natural separation from urban development. The park's proximity to major transportation routes, including the 215 Beltway, makes it easily reachable from throughout the Las Vegas Valley, while its position near Summerlin and Centennial Hills places it within convenient distance of shopping, dining, and other urban amenities.
+            Lone Mountain Regional Park&apos;s location in northwest Las Vegas provides exceptional accessibility while maintaining a sense of natural separation from urban development. The park&apos;s proximity to major transportation routes, including the 215 Beltway, makes it easily reachable from throughout the Las Vegas Valley, while its position near Summerlin and Centennial Hills places it within convenient distance of shopping, dining, and other urban amenities.
           </p>
 
           <h3 className="text-2xl font-semibold text-[#0A2540] mt-8 mb-4">
@@ -195,7 +195,7 @@ export default function LoneMountainPark() {
           </h3>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            The park's location near the 215 freeway ensures that visitors from Summerlin, Downtown Las Vegas, and other parts of the metropolitan area can reach Lone Mountain Regional Park within a reasonable drive time. This accessibility is particularly valuable for families and individuals who want to incorporate outdoor recreation into their regular routines without extensive travel commitments.
+            The park&apos;s location near the 215 freeway ensures that visitors from Summerlin, Downtown Las Vegas, and other parts of the metropolitan area can reach Lone Mountain Regional Park within a reasonable drive time. This accessibility is particularly valuable for families and individuals who want to incorporate outdoor recreation into their regular routines without extensive travel commitments.
           </p>
 
           <h3 className="text-2xl font-semibold text-[#0A2540] mt-8 mb-4">
@@ -203,7 +203,7 @@ export default function LoneMountainPark() {
           </h3>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            The park serves as a natural gathering place for residents of surrounding communities, including The Estates at Lone Mountain and other nearby residential developments. This proximity creates a sense of community identity and provides residents with a valuable recreational resource that enhances their quality of life. The park's presence contributes to the area's appeal as a residential destination, offering a unique combination of natural beauty and urban convenience.
+            The park serves as a natural gathering place for residents of surrounding communities, including The Estates at Lone Mountain and other nearby residential developments. This proximity creates a sense of community identity and provides residents with a valuable recreational resource that enhances their quality of life. The park&apos;s presence contributes to the area&apos;s appeal as a residential destination, offering a unique combination of natural beauty and urban convenience.
           </p>
 
           <h2 className="text-3xl font-bold text-[#0A2540] mt-12 mb-6">
@@ -223,7 +223,7 @@ export default function LoneMountainPark() {
           </p>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            Summer months require careful planning and preparation, as temperatures can exceed 100 degrees Fahrenheit, creating potentially dangerous conditions for hiking, particularly on exposed summit trails. Visitors planning summer visits should limit activities to early morning hours, carry extra water, and be prepared to shorten or cancel hikes if temperatures become unsafe. The park's amenities, including shaded picnic areas and playgrounds, remain usable during summer, but strenuous hiking activities should be approached with caution.
+            Summer months require careful planning and preparation, as temperatures can exceed 100 degrees Fahrenheit, creating potentially dangerous conditions for hiking, particularly on exposed summit trails. Visitors planning summer visits should limit activities to early morning hours, carry extra water, and be prepared to shorten or cancel hikes if temperatures become unsafe. The park&apos;s amenities, including shaded picnic areas and playgrounds, remain usable during summer, but strenuous hiking activities should be approached with caution.
           </p>
 
           <div className="bg-blue-50 border-l-4 border-[#3A8DDE] p-6 my-8">
@@ -237,11 +237,11 @@ export default function LoneMountainPark() {
           </h2>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            Lone Mountain Regional Park serves as an important example of how natural areas can be preserved and made accessible to the public while maintaining ecological integrity. The park's management practices balance recreational use with conservation objectives, ensuring that future generations can continue to enjoy this remarkable natural resource.
+            Lone Mountain Regional Park serves as an important example of how natural areas can be preserved and made accessible to the public while maintaining ecological integrity. The park&apos;s management practices balance recreational use with conservation objectives, ensuring that future generations can continue to enjoy this remarkable natural resource.
           </p>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            Visitors to the park play an important role in conservation through responsible recreation practices. Staying on designated trails, packing out all trash, respecting wildlife, and avoiding damage to vegetation helps preserve the park's natural character. These practices ensure that Lone Mountain Regional Park remains a treasured destination for outdoor recreation and environmental education.
+            Visitors to the park play an important role in conservation through responsible recreation practices. Staying on designated trails, packing out all trash, respecting wildlife, and avoiding damage to vegetation helps preserve the park&apos;s natural character. These practices ensure that Lone Mountain Regional Park remains a treasured destination for outdoor recreation and environmental education.
           </p>
 
           <div className="mt-12 pt-8 border-t border-gray-200">

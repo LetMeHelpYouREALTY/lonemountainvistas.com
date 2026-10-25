@@ -29,7 +29,7 @@ export default function MarketReports() {
           </h1>
 
           <p className="text-xl text-gray-700 mb-8 leading-relaxed">
-            Stay informed about the latest real estate trends, statistics, and market conditions in the Lone Mountain area of northwest Las Vegas. Understanding the market helps you make informed decisions whether you're buying or selling.
+            Stay informed about the latest real estate trends, statistics, and market conditions in the Lone Mountain area of northwest Las Vegas. Understanding the market helps you make informed decisions whether you&apos;re buying or selling.
           </p>
 
           <div className="bg-blue-50 border-l-4 border-[#1E6BB8] p-6 my-8 rounded">
@@ -157,7 +157,7 @@ export default function MarketReports() {
                 Understanding market conditions helps you make competitive offers and identify good value. Working with an experienced agent who knows the Lone Mountain market is key to finding the right property at the right price.
               </p>
               <Link href="/buyers" className="text-[#1E6BB8] hover:underline font-semibold">
-                View Buyer's Guide →
+                View Buyer&apos;s Guide →
               </Link>
             </div>
 
@@ -167,7 +167,7 @@ export default function MarketReports() {
                 Market knowledge enables you to price your home competitively and maximize your return. A current market analysis is essential for making informed decisions about timing and pricing strategy.
               </p>
               <Link href="/sellers" className="text-[#1E6BB8] hover:underline font-semibold">
-                View Seller's Guide →
+                View Seller&apos;s Guide →
               </Link>
             </div>
           </div>

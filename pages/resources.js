@@ -28,7 +28,7 @@ export default function Resources() {
           </h1>
 
           <p className="text-xl text-gray-700 mb-8 leading-relaxed">
-            Whether you're buying, selling, or just exploring the Lone Mountain real estate market, these resources and tools can help you make informed decisions. From neighborhood information to mortgage calculators, we've compiled useful resources to assist you on your real estate journey.
+            Whether you&apos;re buying, selling, or just exploring the Lone Mountain real estate market, these resources and tools can help you make informed decisions. From neighborhood information to mortgage calculators, we&apos;ve compiled useful resources to assist you on your real estate journey.
           </p>
 
           <h2 className="text-3xl font-bold text-[#0A2540] mt-12 mb-6">
@@ -37,12 +37,12 @@ export default function Resources() {
 
           <div className="grid md:grid-cols-2 gap-6 mb-12">
             <div className="bg-white p-6 rounded-lg shadow-md">
-              <h3 className="text-xl font-semibold text-[#0A2540] mb-3">Buyer's Guide</h3>
+              <h3 className="text-xl font-semibold text-[#0A2540] mb-3">Buyer&apos;s Guide</h3>
               <p className="text-gray-700 mb-4">
                 Comprehensive guide covering the entire home buying process from pre-approval to closing.
               </p>
               <Link href="/buyers" className="text-[#1E6BB8] hover:underline font-semibold">
-                View Buyer's Guide →
+                View Buyer&apos;s Guide →
               </Link>
             </div>
 
@@ -85,19 +85,19 @@ export default function Resources() {
 
           <div className="grid md:grid-cols-2 gap-6 mb-12">
             <div className="bg-white p-6 rounded-lg shadow-md">
-              <h3 className="text-xl font-semibold text-[#0A2540] mb-3">Seller's Guide</h3>
+              <h3 className="text-xl font-semibold text-[#0A2540] mb-3">Seller&apos;s Guide</h3>
               <p className="text-gray-700 mb-4">
                 Complete guide to selling your home, from preparation to closing.
               </p>
               <Link href="/sellers" className="text-[#1E6BB8] hover:underline font-semibold">
-                View Seller's Guide →
+                View Seller&apos;s Guide →
               </Link>
             </div>
 
             <div className="bg-white p-6 rounded-lg shadow-md">
               <h3 className="text-xl font-semibold text-[#0A2540] mb-3">Home Valuation</h3>
               <p className="text-gray-700 mb-4">
-                Get an estimate of your home's current market value. Contact me for a detailed, no-obligation market analysis.
+                Get an estimate of your home&apos;s current market value. Contact me for a detailed, no-obligation market analysis.
               </p>
               <div className="text-gray-700">
                 <p className="mb-2">📞 <a href="tel:702-222-1964" className="text-[#1E6BB8] hover:underline font-semibold">702-222-1964</a></p>
@@ -134,7 +134,7 @@ export default function Resources() {
             <div className="bg-blue-50 p-6 rounded-lg">
               <h3 className="text-xl font-semibold text-[#0A2540] mb-3">Mortgage Calculators</h3>
               <p className="text-gray-700 mb-4">
-                While we don't provide mortgage calculators directly on this site, there are many excellent online resources. Consult with a mortgage professional for accurate calculations based on current rates and your specific situation.
+                While we don&apos;t provide mortgage calculators directly on this site, there are many excellent online resources. Consult with a mortgage professional for accurate calculations based on current rates and your specific situation.
               </p>
             </div>
 
@@ -143,7 +143,7 @@ export default function Resources() {
               <ul className="list-disc list-inside text-gray-700 space-y-2">
                 <li>Change your address with USPS</li>
                 <li>Transfer utilities (electric, water, gas, internet)</li>
-                <li>Update driver's license and vehicle registration</li>
+                <li>Update driver&apos;s license and vehicle registration</li>
                 <li>Notify banks, credit cards, and insurance companies</li>
                 <li>Register children for new schools</li>
                 <li>Update voter registration</li>
@@ -195,7 +195,7 @@ export default function Resources() {
           <div className="bg-blue-50 border-l-4 border-[#1E6BB8] p-6 my-8 rounded">
             <h3 className="text-xl font-semibold text-[#0A2540] mb-3">Need More Information?</h3>
             <p className="text-gray-700 mb-4">
-              Have questions about the Lone Mountain real estate market or need assistance with your home buying or selling goals? I'm here to help.
+              Have questions about the Lone Mountain real estate market or need assistance with your home buying or selling goals? I&apos;m here to help.
             </p>
             <p className="text-gray-700 mb-2">
               📞 <a href="tel:702-222-1964" className="text-[#1E6BB8] hover:underline font-semibold">702-222-1964</a>

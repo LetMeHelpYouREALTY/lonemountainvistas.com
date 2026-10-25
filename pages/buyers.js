@@ -8,7 +8,7 @@ export default function Buyers() {
   return (
     <>
       <Head>
-        <title>Buyer's Guide | Lone Mountain Vistas | Real Estate Buying Guide</title>
+        <title>Buyer&apos;s Guide | Lone Mountain Vistas | Real Estate Buying Guide</title>
         <meta name="description" content="Complete guide for home buyers in Lone Mountain, Las Vegas. Learn about the buying process, financing options, and how to find your dream home with Dr. Jan Duffy." />
         <meta property="og:title" content="Buyer's Guide | Lone Mountain Vistas" />
         <meta property="og:description" content="Expert guidance for home buyers in northwest Las Vegas." />
@@ -25,11 +25,11 @@ export default function Buyers() {
 
         <article>
           <h1 className="text-4xl md:text-5xl font-bold text-[#0A2540] mb-6">
-            Buyer's Guide: Your Path to Homeownership in Lone Mountain
+            Buyer&apos;s Guide: Your Path to Homeownership in Lone Mountain
           </h1>
 
           <p className="text-xl text-gray-700 mb-8 leading-relaxed">
-            Buying a home is one of life's most significant investments. Whether you're a first-time homebuyer or an experienced investor, this guide will help you navigate the home buying process in the Lone Mountain area of Las Vegas with confidence and clarity.
+            Buying a home is one of life&apos;s most significant investments. Whether you&apos;re a first-time homebuyer or an experienced investor, this guide will help you navigate the home buying process in the Lone Mountain area of Las Vegas with confidence and clarity.
           </p>
 
           <h2 className="text-3xl font-bold text-[#0A2540] mt-12 mb-6">
@@ -37,7 +37,7 @@ export default function Buyers() {
           </h2>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            Before you start house hunting, it's essential to understand your budget. Getting pre-approved for a mortgage gives you a clear picture of what you can afford and strengthens your position when making an offer. A pre-approval letter shows sellers that you're a serious, qualified buyer.
+            Before you start house hunting, it&apos;s essential to understand your budget. Getting pre-approved for a mortgage gives you a clear picture of what you can afford and strengthens your position when making an offer. A pre-approval letter shows sellers that you&apos;re a serious, qualified buyer.
           </p>
 
           <div className="bg-blue-50 border-l-4 border-[#1E6BB8] p-6 my-8 rounded">
@@ -56,7 +56,7 @@ export default function Buyers() {
           </h2>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            Knowing what you want in a home will make your search more efficient and focused. Consider factors such as location, size, style, features, and your long-term plans. In the Lone Mountain area, you'll find a diverse range of properties from luxury custom homes to more modest single-family residences.
+            Knowing what you want in a home will make your search more efficient and focused. Consider factors such as location, size, style, features, and your long-term plans. In the Lone Mountain area, you&apos;ll find a diverse range of properties from luxury custom homes to more modest single-family residences.
           </p>
 
           <h3 className="text-2xl font-semibold text-[#0A2540] mt-8 mb-4">
@@ -77,7 +77,7 @@ export default function Buyers() {
           </h2>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            A skilled real estate agent who knows the Lone Mountain market can be invaluable. They'll help you identify properties that match your criteria, negotiate the best price, navigate inspections and appraisals, and handle all the paperwork and deadlines. As Head of the Lone Mountain Heights Team, I bring 30+ years of local expertise to every transaction.
+            A skilled real estate agent who knows the Lone Mountain market can be invaluable. They&apos;ll help you identify properties that match your criteria, negotiate the best price, navigate inspections and appraisals, and handle all the paperwork and deadlines. As Head of the Lone Mountain Heights Team, I bring 30+ years of local expertise to every transaction.
           </p>
 
           <h3 className="text-2xl font-semibold text-[#0A2540] mt-8 mb-4">
@@ -116,7 +116,7 @@ export default function Buyers() {
           </h2>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            Once you find the right home, your agent will help you craft a competitive offer. In a seller's market, you may need to move quickly and make a strong initial offer. Your agent will guide you on pricing strategy, contingencies, and terms that protect your interests.
+            Once you find the right home, your agent will help you craft a competitive offer. In a seller&apos;s market, you may need to move quickly and make a strong initial offer. Your agent will guide you on pricing strategy, contingencies, and terms that protect your interests.
           </p>
 
           <h3 className="text-2xl font-semibold text-[#0A2540] mt-8 mb-4">
@@ -136,7 +136,7 @@ export default function Buyers() {
           </h2>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            After your offer is accepted, you'll have a period to conduct inspections and due diligence. This is your opportunity to thoroughly examine the property, identify any issues, and renegotiate if necessary. Your agent will coordinate inspections and help you understand the results.
+            After your offer is accepted, you&apos;ll have a period to conduct inspections and due diligence. This is your opportunity to thoroughly examine the property, identify any issues, and renegotiate if necessary. Your agent will coordinate inspections and help you understand the results.
           </p>
 
           <h2 className="text-3xl font-bold text-[#0A2540] mt-12 mb-6">
