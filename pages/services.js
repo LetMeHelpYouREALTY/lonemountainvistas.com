@@ -29,7 +29,7 @@ export default function Services() {
           </h1>
 
           <p className="text-xl text-gray-700 mb-8 leading-relaxed">
-            As Head of the Lone Mountain Heights Team, in real estate since 1983, I provide comprehensive real estate services tailored to your unique needs. Whether you're buying your dream home or selling your property, I'm here to guide you through every step of the process.
+            As Head of the Lone Mountain Heights Team, in real estate since 1983, I provide comprehensive real estate services tailored to your unique needs. Whether you&apos;re buying your dream home or selling your property, I&apos;m here to guide you through every step of the process.
           </p>
 
           <h2 className="text-3xl font-bold text-[#0A2540] mt-12 mb-6">
@@ -40,7 +40,7 @@ export default function Services() {
             <div className="bg-white p-6 rounded-lg shadow-md">
               <h3 className="text-2xl font-semibold text-[#0A2540] mb-4">Personalized Home Search</h3>
               <p className="text-gray-700 mb-4 leading-relaxed">
-                Save time and find your perfect home faster with personalized search assistance. I'll help you identify properties that match your criteria, schedule viewings, and provide insights about neighborhoods, schools, and local amenities.
+                Save time and find your perfect home faster with personalized search assistance. I&apos;ll help you identify properties that match your criteria, schedule viewings, and provide insights about neighborhoods, schools, and local amenities.
               </p>
               <ul className="list-disc list-inside text-gray-700 space-y-2">
                 <li>Access to exclusive listings and off-market properties</li>
@@ -53,14 +53,14 @@ export default function Services() {
             <div className="bg-white p-6 rounded-lg shadow-md">
               <h3 className="text-2xl font-semibold text-[#0A2540] mb-4">Expert Negotiation</h3>
               <p className="text-gray-700 mb-4 leading-relaxed">
-                Get the best possible deal with my negotiation expertise. I'll represent your interests, handle all communications with sellers, and work to secure favorable terms and pricing.
+                Get the best possible deal with my negotiation expertise. I&apos;ll represent your interests, handle all communications with sellers, and work to secure favorable terms and pricing.
               </p>
             </div>
 
             <div className="bg-white p-6 rounded-lg shadow-md">
               <h3 className="text-2xl font-semibold text-[#0A2540] mb-4">Transaction Management</h3>
               <p className="text-gray-700 mb-4 leading-relaxed">
-                From offer to closing, I'll coordinate all aspects of your purchase, including inspections, appraisals, financing contingencies, and final walk-throughs. You'll stay informed every step of the way.
+                From offer to closing, I&apos;ll coordinate all aspects of your purchase, including inspections, appraisals, financing contingencies, and final walk-throughs. You&apos;ll stay informed every step of the way.
               </p>
             </div>
           </div>
@@ -73,7 +73,7 @@ export default function Services() {
             <div className="bg-white p-6 rounded-lg shadow-md">
               <h3 className="text-2xl font-semibold text-[#0A2540] mb-4">Free Market Analysis</h3>
               <p className="text-gray-700 mb-4 leading-relaxed">
-                Get a comprehensive market analysis to determine your home's optimal listing price. I'll analyze comparable properties, current market conditions, and recent sales to help you price competitively and maximize your return.
+                Get a comprehensive market analysis to determine your home&apos;s optimal listing price. I&apos;ll analyze comparable properties, current market conditions, and recent sales to help you price competitively and maximize your return.
               </p>
             </div>
 
@@ -94,7 +94,7 @@ export default function Services() {
             <div className="bg-white p-6 rounded-lg shadow-md">
               <h3 className="text-2xl font-semibold text-[#0A2540] mb-4">Strategic Pricing & Negotiation</h3>
               <p className="text-gray-700 mb-4 leading-relaxed">
-                Pricing strategy is crucial for a successful sale. I'll help you price your home to attract qualified buyers while maximizing value. When offers come in, I'll negotiate on your behalf to achieve the best terms.
+                Pricing strategy is crucial for a successful sale. I&apos;ll help you price your home to attract qualified buyers while maximizing value. When offers come in, I&apos;ll negotiate on your behalf to achieve the best terms.
               </p>
             </div>
           </div>
@@ -107,7 +107,7 @@ export default function Services() {
             <div className="bg-white p-6 rounded-lg shadow-md">
               <h3 className="text-xl font-semibold text-[#0A2540] mb-3">Home Valuations</h3>
               <p className="text-gray-700">
-                Curious about your home's current market value? I provide free, no-obligation home valuations using the latest market data and comparable sales.
+                Curious about your home&apos;s current market value? I provide free, no-obligation home valuations using the latest market data and comparable sales.
               </p>
             </div>
 
@@ -128,7 +128,7 @@ export default function Services() {
             <div className="bg-white p-6 rounded-lg shadow-md">
               <h3 className="text-xl font-semibold text-[#0A2540] mb-3">24/7 Support</h3>
               <p className="text-gray-700">
-                Real estate doesn't operate on a 9-to-5 schedule. I'm available when you need me, including evenings and weekends.
+                Real estate doesn&apos;t operate on a 9-to-5 schedule. I&apos;m available when you need me, including evenings and weekends.
               </p>
             </div>
           </div>

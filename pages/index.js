@@ -157,11 +157,11 @@ export default function Home() {
               <span className="nav-link-desc">Get in touch today</span>
             </Link>
             <Link href="/buyers" className="nav-link">
-              <span className="nav-link-title">Buyer's Guide</span>
+              <span className="nav-link-title">Buyer&apos;s Guide</span>
               <span className="nav-link-desc">Home buying resources</span>
             </Link>
             <Link href="/sellers" className="nav-link">
-              <span className="nav-link-title">Seller's Guide</span>
+              <span className="nav-link-title">Seller&apos;s Guide</span>
               <span className="nav-link-desc">Home selling resources</span>
             </Link>
             <Link href="/market-reports" className="nav-link">

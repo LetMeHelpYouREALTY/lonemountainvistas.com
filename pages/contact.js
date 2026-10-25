@@ -28,7 +28,7 @@ export default function Contact() {
           </h1>
 
           <p className="text-xl text-gray-700 mb-8 leading-relaxed">
-            Ready to buy or sell in the Lone Mountain area? I'm here to help you navigate the real estate market with expertise, integrity, and personalized service. Get in touch today to discuss your real estate goals.
+            Ready to buy or sell in the Lone Mountain area? I&apos;m here to help you navigate the real estate market with expertise, integrity, and personalized service. Get in touch today to discuss your real estate goals.
           </p>
 
           <div className="grid md:grid-cols-2 gap-8 my-12">
