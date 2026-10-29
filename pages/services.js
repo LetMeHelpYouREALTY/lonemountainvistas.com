@@ -29,7 +29,7 @@ export default function Services() {
           </h1>
 
           <p className="text-xl text-gray-700 mb-8 leading-relaxed">
-            As Head of the Lone Mountain Heights Team, in real estate since 1983, I provide comprehensive real estate services tailored to your unique needs. Whether you&apos;re buying your dream home or selling your property, I&apos;m here to guide you through every step of the process.
+            As Head of the Lone Mountain Heights Team, licensed since 2008 · 35 years in Las Vegas, I provide comprehensive real estate services tailored to your unique needs. Whether you&apos;re buying your dream home or selling your property, I&apos;m here to guide you through every step of the process.
           </p>
 
           <h2 className="text-3xl font-bold text-[#0A2540] mt-12 mb-6">

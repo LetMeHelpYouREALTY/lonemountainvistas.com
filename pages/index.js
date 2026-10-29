@@ -63,8 +63,8 @@ export default function Home() {
 
               <div className="hero-stats">
                 <div className="stat-item">
-                  <div className="stat-number">Since 1983</div>
-                  <div className="stat-label">In Real Estate</div>
+                  <div className="stat-number">Since 2008</div>
+                  <div className="stat-label">Licensed</div>
                 </div>
                 <div className="stat-item">
                   <div className="stat-number">$127M+</div>
