@@ -9,7 +9,7 @@ export default function About() {
     <>
       <Head>
         <title>About Dr. Jan Duffy | Lone Mountain Vistas Real Estate Expert</title>
-        <meta name="description" content="Learn about Dr. Jan Duffy, Head of Lone Mountain Heights Team, in real estate since 1983 in northwest Las Vegas." />
+        <meta name="description" content="Learn about Dr. Jan Duffy, Head of Lone Mountain Heights Team, licensed since 2008 · 35 years in Las Vegas in northwest Las Vegas." />
         <meta property="og:title" content="About Dr. Jan Duffy | Lone Mountain Vistas" />
         <meta property="og:description" content="Meet Dr. Jan Duffy, your trusted real estate partner in Lone Mountain, Las Vegas." />
         <meta property="og:url" content="https://lonemountainvistas.com/about" />
@@ -29,7 +29,7 @@ export default function About() {
           </h1>
 
           <p className="text-xl text-gray-700 mb-8 leading-relaxed">
-            In real estate since 1983 and deeply committed to the Lone Mountain community, Dr. Jan Duffy is a Top 1% Las Vegas REALTOR® who brings unparalleled knowledge and personalized service to every transaction. As Head of the Lone Mountain Heights Team, she combines local insight with professional resources to help clients achieve their real estate goals.
+            Licensed since 2008 · 35 years in Las Vegas and deeply committed to the Lone Mountain community, Dr. Jan Duffy is a Las Vegas REALTOR® who brings unparalleled knowledge and personalized service to every transaction. As Head of the Lone Mountain Heights Team, she combines local insight with professional resources to help clients achieve their real estate goals.
           </p>
 
           <div className="bg-blue-50 border-l-4 border-[#1E6BB8] p-6 my-8 rounded">
