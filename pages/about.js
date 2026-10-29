@@ -58,7 +58,7 @@ export default function About() {
           </h2>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            Dr. Jan Duffy has built a distinguished career in real estate, specializing in luxury properties and custom homes in northwest Las Vegas. Her extensive experience includes working with buyers and sellers in premier communities like The Estates at Lone Mountain, Lone Mountain Vista V, and other exclusive neighborhoods throughout the Lone Mountain area.
+            Dr. Jan Duffy has built a distinguished career in real estate, specializing in luxury properties and custom homes in northwest Las Vegas. Her extensive experience includes working with buyers and sellers in premier communities like The Estates at Lone Mountain, Lone Mountain Vista V, and other luxury neighborhoods throughout the Lone Mountain area.
           </p>
 
           <h3 className="text-2xl font-semibold text-[#0A2540] mt-8 mb-4">

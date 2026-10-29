@@ -9,10 +9,10 @@ export default function LoneMountainPark() {
     <>
       <Head>
         <title>Lone Mountain Regional Park: Hiking Trails, Summit Views & Desert Vistas in Northwest Las Vegas</title>
-        <meta name="description" content="Discover Lone Mountain Regional Park in northwest Las Vegas. Experience breathtaking desert vistas, summit hikes, and panoramic city views on the 2.1-mile loop and challenging summit trail. Family-friendly park with equestrian facilities and dog parks." />
+        <meta name="description" content="Discover Lone Mountain Regional Park in northwest Las Vegas. Experience breathtaking desert vistas, summit hikes, and panoramic city views on the 2.1-mile loop and challenging summit trail. Park with equestrian facilities and dog parks." />
         <meta name="keywords" content="Lone Mountain Regional Park, Lone Mountain hiking, Las Vegas trails, desert hiking, summit views, northwest Las Vegas parks, family hiking trails" />
         <meta property="og:title" content="Lone Mountain Regional Park: Hiking Trails & Summit Views" />
-        <meta property="og:description" content="Explore Lone Mountain Regional Park's scenic trails offering desert vistas and panoramic city views from the summit. Perfect for families, hikers, and outdoor enthusiasts." />
+        <meta property="og:description" content="Explore Lone Mountain Regional Park's scenic trails offering desert vistas and panoramic city views from the summit. Perfect for move-up buyers, hikers, and outdoor enthusiasts." />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://lonemountainvistas.com/lone-mountain-park" />
         <link rel="canonical" href="https://lonemountainvistas.com/lone-mountain-park" />
@@ -43,11 +43,11 @@ export default function LoneMountainPark() {
           </p>
 
           <h3 className="text-2xl font-semibold text-[#0A2540] mt-8 mb-4">
-            The 2.1-Mile Loop Trail: A Family-Friendly Adventure
+            The 2.1-Mile Loop Trail: An Adventure
           </h3>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            The primary trail at Lone Mountain Regional Park is the well-maintained 2.1-mile loop that circles the mountain&apos;s base. This relatively flat, accessible path provides an excellent introduction to the park&apos;s natural beauty without requiring extensive hiking experience or physical conditioning. Families with young children, seniors, and casual walkers will find this loop perfectly suited to their needs.
+            The primary trail at Lone Mountain Regional Park is the well-maintained 2.1-mile loop that circles the mountain&apos;s base. This relatively flat, accessible path provides an excellent introduction to the park&apos;s natural beauty without requiring extensive hiking experience or physical conditioning. Casual walkers of any experience level will find this loop well suited to an easy outing.
           </p>
 
           <p className="text-gray-700 mb-6 leading-relaxed">

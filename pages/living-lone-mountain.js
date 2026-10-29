@@ -47,7 +47,7 @@ export default function LivingLoneMountain() {
           </h3>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            The Lone Mountain community attracts a diverse demographic that includes young families seeking safe, family-friendly neighborhoods with excellent schools and recreational opportunities, professionals who value proximity to employment centers and transportation routes, and active adults who appreciate the outdoor recreation and natural setting. This diversity creates a vibrant, engaged community where residents share common values regarding quality of life, environmental appreciation, and active lifestyles.
+            The Lone Mountain community attracts a diverse demographic that includes buyers seeking parks, nearby schools, and recreational opportunities, professionals who value proximity to employment centers and transportation routes, and active adults who appreciate the outdoor recreation and natural setting. This diversity creates a vibrant, engaged community where residents share common values regarding quality of life, environmental appreciation, and active lifestyles.
           </p>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
@@ -103,7 +103,7 @@ export default function LivingLoneMountain() {
           </p>
 
           <h3 className="text-2xl font-semibold text-[#0A2540] mt-8 mb-4">
-            Family-Friendly Recreational Options
+            Recreational Options
           </h3>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
@@ -127,7 +127,7 @@ export default function LivingLoneMountain() {
           </p>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            The proximity to Summerlin is particularly valuable for families, as the area includes numerous family-oriented businesses, entertainment venues, and community resources. Shopping centers in Summerlin typically feature comprehensive tenant mixes that include grocery stores, pharmacies, banks, specialty retailers, and service businesses, ensuring that residents can meet most daily needs without extensive travel.
+            The proximity to Summerlin is valuable for residents, as the area includes numerous businesses, entertainment venues, and community resources. Shopping centers in Summerlin typically feature comprehensive tenant mixes that include grocery stores, pharmacies, banks, specialty retailers, and service businesses, ensuring that residents can meet most daily needs without extensive travel.
           </p>
 
           <h3 className="text-2xl font-semibold text-[#0A2540] mt-8 mb-4">
@@ -183,7 +183,7 @@ export default function LivingLoneMountain() {
           </h2>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            Families considering living in Lone Mountain should understand the educational options available in the area, as school quality and accessibility are important factors in residential decision-making for families with children.
+            Buyers considering Lone Mountain should understand the educational options available in the area, as schools are an important factor for many buyers.
           </p>
 
           <h3 className="text-2xl font-semibold text-[#0A2540] mt-8 mb-4">

@@ -50,7 +50,7 @@ export default function MarketReports() {
           </h2>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            The Lone Mountain area continues to be one of the most desirable locations in northwest Las Vegas, offering a unique combination of natural beauty, luxury amenities, and convenient access to the city. The market reflects strong demand for quality homes in well-established communities like The Estates at Lone Mountain and Lone Mountain Vista V.
+            The Lone Mountain area continues to be one of the most desirable locations in northwest Las Vegas, offering a unique combination of natural beauty, luxury amenities, and convenient access to the city. The market reflects strong demand for quality homes in older communities like The Estates at Lone Mountain and Lone Mountain Vista V.
           </p>
 
           <h3 className="text-2xl font-semibold text-[#0A2540] mt-8 mb-4">
@@ -112,7 +112,7 @@ export default function MarketReports() {
             <div className="bg-white p-6 rounded-lg shadow-md">
               <h3 className="text-2xl font-semibold text-[#0A2540] mb-4">General Lone Mountain Area</h3>
               <p className="text-gray-700 mb-4 leading-relaxed">
-                The broader Lone Mountain area benefits from its proximity to recreational opportunities, good schools, and easy access to major employment centers. The market reflects steady demand for quality homes in well-maintained neighborhoods.
+                The broader Lone Mountain area benefits from its proximity to recreational opportunities, nearby public schools, and easy access to major employment centers. The market reflects steady demand for quality homes in well-maintained neighborhoods.
               </p>
               <Link href="/living-lone-mountain" className="text-[#1E6BB8] hover:underline font-semibold">
                 Learn more about living in Lone Mountain →
@@ -130,7 +130,7 @@ export default function MarketReports() {
               <ul className="list-disc list-inside text-gray-700 space-y-2">
                 <li>Proximity to Lone Mountain Regional Park and recreational amenities</li>
                 <li>Convenient access to the 215 freeway and major employment centers</li>
-                <li>Quality schools and family-friendly neighborhoods</li>
+                <li>Nearby schools and master-planned neighborhoods</li>
                 <li>Mountain views and natural desert landscape</li>
               </ul>
             </div>
