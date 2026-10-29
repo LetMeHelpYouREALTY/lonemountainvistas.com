@@ -123,7 +123,7 @@ export default function EstatesLoneMountain() {
           </p>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            For families with children, this proximity is particularly valuable, as the park&apos;s playground areas and open spaces provide safe, engaging environments for outdoor play and recreation. The park&apos;s extensive trail network offers opportunities for family hiking, walking, and exploring that can become regular activities rather than special occasions requiring extended travel.
+            This proximity puts the park&apos;s playground areas and open spaces within easy reach for outdoor play and recreation. The park&apos;s extensive trail network offers opportunities for hiking, walking, and exploring that can become regular activities rather than special occasions requiring extended travel.
           </p>
 
           <h2 className="text-3xl font-bold text-[#0A2540] mt-12 mb-6">
@@ -143,7 +143,7 @@ export default function EstatesLoneMountain() {
           </p>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            The proximity to Summerlin is particularly valuable for families, as the area includes numerous family-oriented businesses, recreational facilities, schools, and community resources. The ability to access these amenities while maintaining residence in a more natural, mountain-adjacent setting represents a significant lifestyle advantage that attracts many homebuyers to The Estates at Lone Mountain.
+            The proximity to Summerlin is valuable for residents, as the area includes numerous businesses, recreational facilities, schools, and community resources. The ability to access these amenities while maintaining residence in a more natural, mountain-adjacent setting represents a significant lifestyle advantage that attracts many homebuyers to The Estates at Lone Mountain.
           </p>
 
           <h3 className="text-2xl font-semibold text-[#0A2540] mt-8 mb-4">
