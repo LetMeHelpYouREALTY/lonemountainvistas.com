@@ -91,7 +91,7 @@ export default function LoneMountainVistaV() {
           </h3>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
-            The peaceful and quiet environment that residents appreciate reflects the neighborhood&apos;s residential character and the quality of life that comes from living in a well-planned community that prioritizes tranquility. This peacefulness is particularly valued by families with children, professionals who work from home, retirees seeking a calm living environment, and anyone who appreciates the ability to relax and unwind in their own neighborhood.
+            The peaceful and quiet environment that residents appreciate reflects the neighborhood&apos;s residential character and the quality of life that comes from living in a well-planned community that prioritizes tranquility. This peacefulness suits anyone who works from home or appreciates the ability to relax and unwind in their own neighborhood.
           </p>
 
           <p className="text-gray-700 mb-6 leading-relaxed">
