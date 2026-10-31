@@ -2,6 +2,8 @@ import Head from 'next/head';
 import Script from 'next/script';
 import '../styles/globals.css';
 import Navbar from '../components/Navbar';
+import { Analytics as VercelAnalytics } from "@vercel/analytics/next";
+import { SpeedInsights as VercelSpeedInsights } from "@vercel/speed-insights/next";
 
 // RealScout Agent ID - Update this with your actual RealScout agent encoded ID
 const REALSCOUT_AGENT_ID = "QWdlbnQtMjI1MDUw";
@@ -75,6 +77,8 @@ function MyApp({ Component, pageProps }) {
         <p>&copy; {new Date().getFullYear()} Lone Mountain Vistas · Dr. Jan Duffy, REALTOR®</p>
         <p className="mt-1">Berkshire Hathaway HomeServices Nevada Properties since September 2008 · License S.0197614.LLC</p>
       </footer>
+      <VercelAnalytics />
+      <VercelSpeedInsights />
     </>
   );
 }
