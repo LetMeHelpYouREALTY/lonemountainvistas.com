@@ -6,19 +6,56 @@ import RealScoutAdvancedSearch from '../components/RealScoutAdvancedSearch';
 import RealScoutSimpleSearch from '../components/RealScoutSimpleSearch';
 import RealScoutOfficeListings from '../components/RealScoutOfficeListings';
 
+const HOME_META_DESCRIPTION =
+  'Homes near Lone Mountain in northwest Las Vegas. Search listings, book a buyer consult, or call Dr. Jan Duffy, REALTOR®, at 702-222-1964.';
+
+const CALENDLY_BUYER_URL =
+  'https://calendly.com/drjanduffy/buyer-consultation-30-min?hide_gdpr_banner=1&utm_source=lonemountainvistas.com&utm_medium=website&utm_content=home-agent-card';
+
+const HOME_FAQS = [
+  {
+    question: 'Where is Lone Mountain Park and what amenities does it offer?',
+    answer:
+      'Clark County operates Lone Mountain Park at 4425 N. Jensen St., Las Vegas, NV 89129. The park includes an equestrian arena, pickleball, basketball and tennis courts, and playgrounds.',
+  },
+  {
+    question: 'How do I start searching for homes near Lone Mountain?',
+    answer:
+      'Use the property search widget on this homepage, or open the All Properties page to browse current listings in the area.',
+  },
+  {
+    question: 'How do I book a buyer consultation with Dr. Jan Duffy?',
+    answer:
+      'Use the Book a Buyer Consult link in the agent card on this page, or call Dr. Jan Duffy at 702-222-1964.',
+  },
+];
+
+const homeFaqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: HOME_FAQS.map(({ question, answer }) => ({
+    '@type': 'Question',
+    name: question,
+    acceptedAnswer: {
+      '@type': 'Answer',
+      text: answer,
+    },
+  })),
+};
+
 export default function Home() {
   return (
     <div className="container">
       <Head>
         <title>Lone Mountain Vistas | Luxury Real Estate in Northwest Las Vegas</title>
-        <meta name="description" content="Lone Mountain Vistas - Premier luxury real estate in northwest Las Vegas. Explore properties near Lone Mountain Regional Park, The Estates at Lone Mountain, and discover the Lone Mountain lifestyle." />
+        <meta name="description" content={HOME_META_DESCRIPTION} />
         <link rel="canonical" href="https://lonemountainvistas.com/" />
 
         {/* Open Graph / Facebook */}
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://lonemountainvistas.com/" />
         <meta property="og:title" content="Lone Mountain Vistas | Luxury Real Estate in Northwest Las Vegas" />
-        <meta property="og:description" content="Premier luxury real estate in northwest Las Vegas. Explore properties near Lone Mountain Regional Park, The Estates at Lone Mountain, and discover the Lone Mountain lifestyle." />
+        <meta property="og:description" content={HOME_META_DESCRIPTION} />
         <meta property="og:image" content="https://lonemountainvistas.com/images/og-image.jpg" />
         <meta property="og:image:secure_url" content="https://lonemountainvistas.com/images/og-image.jpg" />
         <meta property="og:image:type" content="image/jpeg" />
@@ -34,9 +71,13 @@ export default function Home() {
         <meta name="twitter:creator" content="@LoneMountainVistas" />
         <meta name="twitter:url" content="https://lonemountainvistas.com/" />
         <meta name="twitter:title" content="Lone Mountain Vistas | Luxury Real Estate in Northwest Las Vegas" />
-        <meta name="twitter:description" content="Premier luxury real estate in northwest Las Vegas. Explore properties near Lone Mountain Regional Park, The Estates at Lone Mountain, and discover the Lone Mountain lifestyle." />
+        <meta name="twitter:description" content={HOME_META_DESCRIPTION} />
         <meta name="twitter:image" content="https://lonemountainvistas.com/images/og-image.jpg" />
         <meta name="twitter:image:alt" content="Lone Mountain Vistas - Luxury Real Estate in Northwest Las Vegas" />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(homeFaqSchema) }}
+        />
       </Head>
       <main>
         {/* Hero Section */}
@@ -98,6 +139,23 @@ export default function Home() {
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
                     </svg>
                     Email Me
+                  </a>
+                  <a
+                    href={CALENDLY_BUYER_URL}
+                    className="agent-calendly"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        strokeWidth={2}
+                        d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"
+                      />
+                    </svg>
+                    Book a Buyer Consult
+                    <span className="sr-only"> (opens Calendly in a new tab)</span>
                   </a>
                 </div>
                 <p className="agent-card-tagline">Local Expert • Global Network</p>
@@ -174,6 +232,20 @@ export default function Home() {
             </Link>
           </div>
         </nav>
+
+        <section className="home-faq-section" aria-labelledby="home-faq-heading">
+          <h2 id="home-faq-heading" className="home-faq-title">
+            Frequently Asked Questions
+          </h2>
+          <dl className="home-faq-list">
+            {HOME_FAQS.map(({ question, answer }) => (
+              <div key={question} className="home-faq-item">
+                <dt className="home-faq-question">{question}</dt>
+                <dd className="home-faq-answer">{answer}</dd>
+              </div>
+            ))}
+          </dl>
+        </section>
 
         <section className="office-listings-section">
           <h2 className="listings-title">Featured Properties</h2>
@@ -339,6 +411,56 @@ export default function Home() {
           color: #0A2540;
           margin-bottom: 1.5rem;
           text-align: center;
+        }
+        .home-faq-section {
+          margin-top: 3rem;
+          margin-left: auto;
+          margin-right: auto;
+          width: 100%;
+          max-width: 900px;
+          padding: 2rem;
+          background: white;
+          border-radius: 12px;
+          box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+          text-align: left;
+        }
+        .home-faq-title {
+          font-size: 1.8rem;
+          color: #0A2540;
+          margin-bottom: 1.5rem;
+          text-align: center;
+        }
+        .home-faq-list {
+          margin: 0;
+        }
+        .home-faq-item {
+          margin-bottom: 1.5rem;
+        }
+        .home-faq-item:last-child {
+          margin-bottom: 0;
+        }
+        .home-faq-question {
+          font-size: 1.1rem;
+          font-weight: 600;
+          color: #0A2540;
+          margin-bottom: 0.5rem;
+        }
+        .home-faq-answer {
+          margin: 0;
+          font-size: 1rem;
+          color: #444;
+          line-height: 1.6;
+        }
+        .sr-only {
+          position: absolute;
+          width: 1px;
+          height: 1px;
+          padding: 0;
+          margin: -1px;
+          overflow: hidden;
+          clip: rect(0, 0, 0, 0);
+          white-space: nowrap;
+          border-width: 0;
         }
         @media (max-width: 768px) {
           .nav-links {

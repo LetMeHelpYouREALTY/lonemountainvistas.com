@@ -18,7 +18,7 @@ const META_TAGS = `
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://lonemountainvistas.com/" />
         <meta property="og:title" content="Lone Mountain Vistas | Luxury Real Estate in Northwest Las Vegas" />
-        <meta property="og:description" content="Premier luxury real estate in northwest Las Vegas. Explore properties near Lone Mountain Regional Park, The Estates at Lone Mountain, and discover the Lone Mountain lifestyle." />
+        <meta property="og:description" content="Homes near Lone Mountain in northwest Las Vegas. Search listings, book a buyer consult, or call Dr. Jan Duffy, REALTOR®, at 702-222-1964." />
         <meta property="og:image" content="https://lonemountainvistas.com/images/og-image.jpg" />
         <meta property="og:image:secure_url" content="https://lonemountainvistas.com/images/og-image.jpg" />
         <meta property="og:image:type" content="image/jpeg" />
@@ -34,7 +34,7 @@ const META_TAGS = `
         <meta name="twitter:creator" content="@LoneMountainVistas" />
         <meta name="twitter:url" content="https://lonemountainvistas.com/" />
         <meta name="twitter:title" content="Lone Mountain Vistas | Luxury Real Estate in Northwest Las Vegas" />
-        <meta name="twitter:description" content="Premier luxury real estate in northwest Las Vegas. Explore properties near Lone Mountain Regional Park, The Estates at Lone Mountain, and discover the Lone Mountain lifestyle." />
+        <meta name="twitter:description" content="Homes near Lone Mountain in northwest Las Vegas. Search listings, book a buyer consult, or call Dr. Jan Duffy, REALTOR®, at 702-222-1964." />
         <meta name="twitter:image" content="https://lonemountainvistas.com/images/og-image.jpg" />
         <meta name="twitter:image:alt" content="Lone Mountain Vistas - Luxury Real Estate in Northwest Las Vegas" />
 `;
